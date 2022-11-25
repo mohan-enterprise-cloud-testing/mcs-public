@@ -10,7 +10,13 @@ def Whistle():
     print("I am whistling")
   
   }
+
+def Something():
+  {
+    print("Just something!")
   
+  }
+
 Hello()
 
 Whistle()
